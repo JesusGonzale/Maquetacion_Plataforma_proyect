@@ -1,0 +1,41 @@
+/*Colors*/
+.color__white{
+	color:#fff !important;
+}
+.color_black_obs{
+	color: #455a64;
+}
+
+/*Margin and padding*/
+.margin__top__not{
+	margin:0px !important;
+}
+
+/*centrar*/
+
+/*animaciones*/
+
+/*buttons*/
+.badge__success{
+	background: #26c6da !important;
+}
+.badge__primary{
+	background: red !important;
+}
+/*iconos*/
+i.icon__width_27{
+	width: 27px;
+	height: 27px;
+	font-size: 21px;
+}
+
+/*otros*/
+.badge{
+	background: #26c6da !important;
+}
+.radius__not{
+	border-radius: 0px;
+}
+.inline__block{
+	display: inline-block;
+}
