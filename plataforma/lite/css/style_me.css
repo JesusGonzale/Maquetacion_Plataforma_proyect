@@ -39,3 +39,12 @@ i.icon__width_27{
 .inline__block{
 	display: inline-block;
 }
+.display_none{
+	display: none;
+}
+
+/*formularios*/
+
+.onClick{
+	cursor: pointer;
+}
